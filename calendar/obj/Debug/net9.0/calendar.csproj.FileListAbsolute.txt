@@ -1,0 +1,14 @@
+C:\Users\losunad\.vscode\calendar\calendar\bin\Debug\net9.0\calendar.exe
+C:\Users\losunad\.vscode\calendar\calendar\bin\Debug\net9.0\calendar.deps.json
+C:\Users\losunad\.vscode\calendar\calendar\bin\Debug\net9.0\calendar.runtimeconfig.json
+C:\Users\losunad\.vscode\calendar\calendar\bin\Debug\net9.0\calendar.dll
+C:\Users\losunad\.vscode\calendar\calendar\bin\Debug\net9.0\calendar.pdb
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\calendar.AssemblyInfoInputs.cache
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\calendar.AssemblyInfo.cs
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\calendar.csproj.CoreCompileInputs.cache
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\calendar.dll
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\refint\calendar.dll
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\calendar.pdb
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\calendar.genruntimeconfig.cache
+C:\Users\losunad\.vscode\calendar\calendar\obj\Debug\net9.0\ref\calendar.dll
